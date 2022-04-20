@@ -1,4 +1,4 @@
-# Art of Reentry
+# [Art of Reentry (AOR)](https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*/]
 
 Pack of stylish and slightly functional heat shields to protect your kerbals or more important science devices, For Kerbal Space Program.
 
@@ -25,7 +25,7 @@ thanks to "team.leit" for sending me the files after i lost the originals.
 Edited November 16, 2014 by 
 ![Rareden](https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-57466.jpg) - Rareden
 
-### [Art Of Reentry (AOR)]()
+### [Art Of Reentry (AOR)](https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*/)
 
 #### Legal Mumbo Jumbo (LMJ)
 
