@@ -8,6 +8,8 @@ adopted with specific permission by @zer0Kerbal
 
 ### I will post in discussions when it is ready
 
+![HERO-02](https://github.com/zer0Kerbal/ArtofReentry/blob/master/img/HERO-02.png?raw=true)
+
 ### Recommended
 
 * Deadly reentry
