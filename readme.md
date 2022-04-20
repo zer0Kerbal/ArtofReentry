@@ -1,4 +1,4 @@
-# [Art of Reentry (AOR)](https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*/]
+# [Art of Reentry (AOR)](https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*/)
 
 Pack of stylish and slightly functional heat shields to protect your kerbals or more important science devices, For Kerbal Space Program.
 
