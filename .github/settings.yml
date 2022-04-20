@@ -14,7 +14,7 @@ repository:
   description: Pack of stylish and slightly functional heat shields to protect your kerbals or more important science devices, For Kerbal Space Program.
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*/
+  homepage: "https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*/"
 
   # A comma-separated list of topics to set on the repository
   topics: heat,shield,rareden,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-mods,zedk
