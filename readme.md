@@ -17,13 +17,6 @@ adopted with specific permission by @zer0Kerbal
 
 Download at [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/art-of-reentry-1-1) (225416)
 
-### Changelog
-
-* 1.1
-  * Added 2,5m HS.
-  * Tweaked node positions so the shields will no longer clip through parts.
-  * Tweaked emissive materials.
-
 thanks to "team.leit" for sending me the files after i lost the originals.
 
 Edited November 16, 2014 by 
