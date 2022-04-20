@@ -1,6 +1,6 @@
 ﻿# Changelog  
   
-| modName    | ArtofReentry (AoR)                                              |
+| modName    | Art of Reentry (AoR)                                            |
 | ---------- | --------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                    |
 | author     | Rareden and zer0Kerbal                                          |
