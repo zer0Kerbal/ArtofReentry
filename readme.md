@@ -4,6 +4,10 @@ Pack of stylish and slightly functional heat shields to protect your kerbals or 
 
 adopted with specific permission by @zer0Kerbal
 
+## THIS REPO IS NOT READY FOR Forks, pull requests, *et cetera*  
+
+### I will post in discussions then it is
+
 ### Recommended
 
 * Deadly reentry
@@ -25,7 +29,7 @@ thanks to "team.leit" for sending me the files after i lost the originals.
 Edited November 16, 2014 by 
 ![Rareden](https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-57466.jpg) - Rareden
 
-### [Art Of Reentry (AOR)](https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*/)
+### [Art of Reentry (AOR)](https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*/)
 
 #### Legal Mumbo Jumbo (LMJ)
 
