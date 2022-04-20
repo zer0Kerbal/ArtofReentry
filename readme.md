@@ -6,7 +6,7 @@ adopted with specific permission by @zer0Kerbal
 
 ## THIS REPO IS NOT READY FOR Forks, pull requests, *et cetera*  
 
-### I will post in discussions then it is
+### I will post in discussions when it is ready
 
 ### Recommended
 
