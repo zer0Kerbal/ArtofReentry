@@ -1,0 +1,36 @@
+{
+	"NAME"		     : "Art of Reentry (AOR)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/ArtofReentry/master/ArtofReentry.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ArtofReentry/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ArtofReentry/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "ArtofReentry",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 1,
+		"PATCH" : 99,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 3
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 90,
+		"PATCH" : 0
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "ArtofReentry",
+		"DIRECTORY" : "ArtofReentry"
+	}
+}
