@@ -8,6 +8,8 @@ adopted with specific permission by @zer0Kerbal
 
 ### I will post in discussions when it is ready
 
+![HERO-02](https://github.com/zer0Kerbal/ArtofReentry/blob/master/img/HERO-02.png?raw=true)
+
 ### Recommended
 
 * Deadly reentry
@@ -29,7 +31,7 @@ Edited November 16, 2014 by
 * Originally: ![All Rights Reserved](https://img.shields.io/badge/License-All--Rights--Reserved-black?style=plastic&labelColor=white)  
 * Download ![CurseForge](https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge)  
 
-* new license: `CC BY-ND 4.0`  [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--ND--SA%204.0-ef9421?style=style-for-the-badge&labelColor=black&logo=creativecommons&logoColor=ef9421)](https://creativecommons.org/licenses/by-nd-sa/4.0/)  
+* new license: `CC BY-ND 4.0`  [![CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-ef9421?style=style-for-the-badge&labelColor=black&logo=creativecommons&logoColor=ef9421)](https://creativecommons.org/licenses/by-nd/4.0/)  
 
 
 #### _news when there is news_
