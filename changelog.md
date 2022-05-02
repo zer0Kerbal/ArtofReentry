@@ -37,6 +37,9 @@
 * relocate assets to Assets/
 * eliminate
   * duplicate textures
+    * [hygensEmissive.png]
+    * [Hygens_lowres.png]
+    * [Hygens_lowresNM_NRM.png]
   * duplicate models
 * closes #25 - Asset updates
 
