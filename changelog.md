@@ -41,6 +41,7 @@
     * [Hygens_lowres.png]
     * [Hygens_lowresNM_NRM.png]
   * duplicate models
+* relocate part.cfg to Parts/
 * closes #25 - Asset updates
 
 ---
