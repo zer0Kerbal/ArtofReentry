@@ -10,6 +10,25 @@
 | spacedock  | (https://spacedock.info/mod/)                                   |
 | ckan       | ArtofReentry                                                    |
 
+## Version 1.1.99.0-adoption `<EDITION>`
+
+* 01 May 2022
+* Released for Kerbal Space Program 0.90.0
+
+Create @thumbs
+* closes #26 - Create @thumbs
+
+
+Asset Updates
+* [ ] convert from mesh to MODEL
+* [ ] rename models to unique names
+* [ ] rename textures to unique names
+* [ ] update model pointers (.png et al to .dds)
+* [ ] update model texture pointers to new names
+* [ ] relocate assets to Assets/
+
+---
+
 ## Version 1.1.0.0-release
 
 * 16 Nov 2016
@@ -20,4 +39,6 @@
   * Tweaked node positions so the shields will no longer clip through parts.
   * Tweaked emissive materials.
 
-<!-- CC BY-NC-ND 3.0 Unported zer0Kerbal -->
+---
+
+<!-- CC BY-ND 4.0 zer0Kerbal -->
