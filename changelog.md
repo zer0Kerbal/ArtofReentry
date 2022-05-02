@@ -25,6 +25,11 @@
 * convert from mesh to MODEL
 * rename
   * models to unique names
+    * [model.mu] to [aor-panel-1x1.mu]
+    * [model.mu] to [aor-heatshield-650.mu]
+    * [model.mu] to [aor-heatshield-375.mu]
+    * [huygens2_5m.mu] to [huygens-250]
+    * [huygens.mu] to [huygens-125]
   * textures to unique names
 * update
   * pointers (.png et al to .dds)
