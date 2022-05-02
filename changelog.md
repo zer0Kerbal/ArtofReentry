@@ -1,6 +1,6 @@
 ﻿# Changelog  
   
-| modName    | Art of Reentry (AoR)                                            |
+| modName    | ArtofReentry (AoR)                                              |
 | ---------- | --------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                    |
 | author     | Rareden and zer0Kerbal                                          |
@@ -15,17 +15,25 @@
 * 01 May 2022
 * Released for Kerbal Space Program 0.90.0
 
-Create @thumbs
+# Create @thumbs
 * closes #26 - Create @thumbs
 
 
-Asset Updates
-* [ ] convert from mesh to MODEL
-* [ ] rename models to unique names
-* [ ] rename textures to unique names
-* [ ] update model pointers (.png et al to .dds)
-* [ ] update model texture pointers to new names
-* [ ] relocate assets to Assets/
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* closes #25 - Asset updates
 
 ---
 
