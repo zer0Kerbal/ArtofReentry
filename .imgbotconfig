@@ -2,7 +2,7 @@
     "schedule": "weekly",
     "ignoredFiles": [
         "GameData/*",
-        "GameData/ArtofReentry/*",
+        "GameData/Rareden/ArtofReentry/*",
         "source/*",
         "**/@thumbs/**",
         "**/Agencies/**",
