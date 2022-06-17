@@ -35,6 +35,7 @@ Asset Updates
 
 * 16 Nov 2016
 * Released for Kerbal Space Program 0.90.0
+* by Rareden
 
 * 1.1
   * Added 2.5m HS.
@@ -48,6 +49,7 @@ Asset Updates
 * 2016
 * Released for Kerbal Space Program 0.90.0
 * no changelog
+* by Rareden
 
 ---
 
