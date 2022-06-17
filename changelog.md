@@ -26,8 +26,20 @@ Asset Updates
 * update model texture pointers to new names
 * relocate assets to Assets/
 
-* #27 - Create thumbs - contributed by zer0Kerbal
-* #26 - Create @thumbs
+* closes #6 - Localization - Master
+* closes #7 - English <us-en.cfg>
+* closes #23 - Part Localization
+* closes #25 - Asset updates
+
+### Status
+
+* Issues
+  * closes #2 - Art of Reentry 1.1.99.0-adoption <NAME>
+  * closes #3 - 1.1.99.0 Verify Legal Mumbo Jumbo
+  * closes #4 - 1.1.99.0 Update Documentation
+  * closes #5 - 1.1.99.0 Social Media
+  * closes #27 - Create thumbs - contributed by zer0Kerbal
+  * closes #26 - Create @thumbs
 
 ---
 
@@ -41,6 +53,12 @@ Asset Updates
   * Tweaked node positions so the shields will no longer clip through parts.
   * Tweaked emissive materials.
 
+### Status
+
+* Issues
+  * closes #32 - 1.1.0.0-release
+  * closes #30 - Previous Archival Releases
+
 ---
 
 ## Version 1.0.0.0-release
@@ -48,6 +66,12 @@ Asset Updates
 * 2016
 * Released for Kerbal Space Program 0.90.0
 * no changelog
+
+### Status
+
+* Issues
+  * updates #30 - Previous Archival Releases
+  * closes #31 - 1.0.0.0-release
 
 ---
 
