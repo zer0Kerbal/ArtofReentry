@@ -1,14 +1,14 @@
 ﻿# Changelog  
-
-| modName    | ArtofReentry (AoR)                                              |
-| ---------- | --------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                    |
-| author     | Rareden and zer0Kerbal                                          |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/89638-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/ArtofReentry)         |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ArtofReentry)       |
-| spacedock  | (https://spacedock.info/mod/)                                   |
-| ckan       | ArtofReentry                                                    |
+  
+| modName    | ArtofReentry (AoR)                                                |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-ND-4.0                                                      |
+| author     | Rareden and zer0Kerbal                                            |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208628-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/ArtofReentry)           |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ArtofReentry)         |
+| spacedock  | (https://spacedock.info/mod/3046)                                 |
+| ckan       | ArtofReentry                                                      |
 
 ## Version 1.1.99.0-adoption `<EDITION>`
 
@@ -17,7 +17,6 @@
 
 Create @thumbs
 * closes #26 - Create @thumbs
-
 
 Asset Updates
 * [ ] convert from mesh to MODEL
@@ -35,7 +34,7 @@ Asset Updates
 * Released for Kerbal Space Program 0.90.0
 
 * 1.1
-  * Added 2,5m HS.
+  * Added 2.5m HS.
   * Tweaked node positions so the shields will no longer clip through parts.
   * Tweaked emissive materials.
 
@@ -45,6 +44,7 @@ Asset Updates
 
 * 2016
 * Released for Kerbal Space Program 0.90.0
+* no changelog
 
 ---
 
