@@ -30,6 +30,10 @@ labels:
     color: 008672
     description: "assistance, help, input solicited"
 
+  - name: discussion
+    color: 6495ED
+    description: "duplicated issue - it happens"
+
   - name: duplicate
     color: FFFFF0
     description: "duplicated issue - it happens"
@@ -98,7 +102,11 @@ labels:
 
   - name: "issue: license"
     color: FBCA04
-    description: issue type
+    description: having to do with license/licensing
+
+  - name: "issue: image"
+    color: FBCA04
+    description: deals with images and imgbot
 
   - name: "issue: install"
     color: FBCA04
@@ -146,6 +154,10 @@ labels:
   - name: "type: docs"
     color: fef2c0
     description: Related to documentation and information.
+
+  - name: "type: pages"
+    color: fef2c0
+    description: Related to GitHub pages documentation and information.
 
   - name: "type: enhancement"
     oldname: "Mod-enhancement"
@@ -221,12 +233,20 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 1.2.0.0-release
-    description: progress toward 1.2.0.0-release
+  - title: 1.0.0.0-release
+    description: progress toward archival 1.0.0.0-release
+    state: open
+
+  - title: 1.1.0.0-release
+    description: progress toward archival 1.1.0.0-release
     state: open
 
   - title: 1.1.99.0-adoption
     description: progress toward 1.1.99.0-adoption
+    state: open
+
+  - title: 1.2.0.0-release
+    description: progress toward 1.2.0.0-release
     state: open
 
   - title: Localization - Master
@@ -237,6 +257,6 @@ milestones:
     description: progress toward PARTS localization (only for parts and agents)
     state: open
 
-  - title: Localization - English (United States) <en-us.cfg>
-    description: progress toward English (United States) <en-us.cfg> localization
+  - title: Localization - English <en-us.cfg>
+    description: progress toward English <en-us.cfg> localization
     state: open
