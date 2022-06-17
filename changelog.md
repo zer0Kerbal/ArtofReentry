@@ -1,5 +1,5 @@
 ﻿# Changelog  
-  
+
 | modName    | ArtofReentry (AoR)                                              |
 | ---------- | --------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                    |
@@ -38,6 +38,13 @@ Asset Updates
   * Added 2,5m HS.
   * Tweaked node positions so the shields will no longer clip through parts.
   * Tweaked emissive materials.
+
+---
+
+## Version 1.0.0.0-release
+
+* 2016
+* Released for Kerbal Space Program 0.90.0
 
 ---
 
