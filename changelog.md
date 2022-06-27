@@ -18,7 +18,6 @@
 # Create @thumbs
 * closes #26 - Create @thumbs
 
-
 ### Asset Updates
 
 * create Assets/ folder
