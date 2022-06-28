@@ -10,13 +10,10 @@
 | spacedock  | (https://spacedock.info/mod/3046)                                 |
 | ckan       | ArtofReentry                                                      |
 
-## Version 1.1.99.0-adoption `<EDITION>`
+## Version 1.1.99.0-adoption `<The Art of Reentry>`
 
-* 01 May 2022
+* 25 Jun 2022
 * Released for Kerbal Space Program 0.90.0
-
-# Create @thumbs
-* closes #26 - Create @thumbs
 
 ### Asset Updates
 
@@ -49,11 +46,18 @@ Asset Updates
 * update model pointers (.png et al to .dds)
 * update model texture pointers to new names
 * relocate assets to Assets/
+  * closes #25 - Asset updates
+* Create @thumbs
+  * closes #26 - Create @thumbs
 
+### Localization
+
+* Part
+  * create agency
+  * run localizer
 * closes #6 - Localization - Master
 * closes #7 - English <us-en.cfg>
 * closes #23 - Part Localization
-* closes #25 - Asset updates
 
 ### Status
 
