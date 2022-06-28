@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.8.2
-Art of Reentry (AOR)
+Art Of Reentry (AoR)
 created: 17 Jul 2017
 updated: 03 Jun 2022 -->
 
@@ -11,7 +11,7 @@ updated: 03 Jun 2022 -->
 
 
 
-# Art of Reentry (AOR)
+# Art Of Reentry (AoR)
 
 Stylish and slightly functional heat shields to protect your kerbals or more important science devices, For Kerbal Space Program.
 

@@ -7,7 +7,7 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
 CC-BY-ND-4.0.md v1.0.0.0
-Art of Reentry (AOR)
+Art Of Reentry (AoR)
 created: 01 Feb 2022
 updated: 07 Mar 2022
 -->

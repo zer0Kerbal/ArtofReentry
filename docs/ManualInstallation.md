@@ -6,13 +6,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Art of Reentry (AOR)
+Art Of Reentry (AoR)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Art of Reentry (AOR)
+# Art Of Reentry (AoR)
 
 [Home](./index.md)
 
