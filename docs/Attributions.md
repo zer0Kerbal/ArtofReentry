@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.1
-Art of Reentry (AOR)
+Art Of Reentry (AoR)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -15,7 +15,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Art of Reentry (AOR)
+# Art Of Reentry (AoR)
 
 [Home](./index.md)
 
@@ -24,7 +24,7 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57466-*/"><img border="0" alt="Rareden" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-57466.jpg" width="50" height="50" > Rareden</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208628-*/" alt="Art of Reentry (AOR)">Art of Reentry (AOR)</a> addon!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57466-*/"><img border="0" alt="Rareden" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-57466.jpg" width="50" height="50" > Rareden</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208628-*/" alt="Art Of Reentry (AoR)">Art Of Reentry (AoR)</a> addon!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
@@ -67,7 +67,7 @@ updated: 03 Jun 2022
 </ul>
 
 <!-- links -->
-[AoR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208628-*/ "Art of Reentry (AOR)"
+[AoR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208628-*/ "Art Of Reentry (AoR)"
 
 [rareden]: https://forum.kerbalspaceprogram.com/index.php?/profile/57466-*/ "Rareden"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
