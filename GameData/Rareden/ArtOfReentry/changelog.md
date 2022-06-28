@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3046)                                 |
 | ckan       | ArtofReentry                                                      |
 
-## Version 1.1.99.0-adoption `<The Art of Reentry>`
+## Version 1.1.99.0-adoption `<The Art Of Reentry>`
 
 * 25 Jun 2022
 * Released for Kerbal Space Program 0.90.0
